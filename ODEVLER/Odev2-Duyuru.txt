@@ -1,0 +1,15 @@
+TBY414 Ödev 2 
+3 Mart 2020'de sınıfta yapılan BKİ uygulaması şu şekilde ilerletilecektir. 
+
+Uygulama kişinin kilosu sağlıklı bir kiloda değilse, alması veya vermesi gereken bir hedef miktar belirleyecek ve kişiye bunu ifade edecektir. 
+
+Alınması veya verilmesi gereken kilo için, öncelikle bir hedef kilo belirlenmesi ve bu hedef ile aradaki fark kadar kilonun alınması veya verilmesi önerilmelidir. 
+
+Hedef kilonun belirlenmesinde, değişik yöntemler kullanılabilir. Aşağıdaki üç yöntem veya benzeri rasyonel herhangi bir yöntem kabul edilecektir. 
+1- Hedeflenen bir BKİ aralığına girmek için hedef BKİ belirlenmesi ve o BKİ için kişinin kaç kiloda olması gerektiğinin saptanması
+2- Kişinin mevcut kilosundan yola çıkarak küçük ama etkili bir hedef belirlenmesi 
+3- Kişinin ideal sağlıklı kilo hedefi belirlenerek o hedefe olan farkın saptanması
+
+Ödevler, öğrencilerin kendi Github repolarına yüklenecektir. Böylece Github'ı kullanma konusunda da deneyim oluşacaktır. 
+
+Teslim zamanı 10 Mart 2020, saat 09:00'dır.
