@@ -22,6 +22,8 @@ print ("a: ", a)
 #Ondalıklı sayılar ile çalışmanın bir yolu da kullanılan sabitlere ondalık eklemektir.
 a = 8.0 + 2
 print ("a: ", a)
+# Bir dipnot, Python ondalık hanesi olarak nokta, yani . kullanır.
+# Bunun nedeni ABD'de ondalık hanesinin . olmasıdır. 
 
 # Tam sayılara int, ondalıklı sayılara float adını veriyoruz.
 # Birisinden ötekine dönüşüm yapmak için da bu isimlere sahip
