@@ -1,0 +1,15 @@
+Ad,Kupa
+Bora,1
+Tufan,2
+Ali Cem,1
+Oguzhan,1
+Ilker,2
+Bora,2
+Bora,1
+Ali Cem,2
+Bora,2
+Tufan,1
+Ali Cem,1
+Tufan,1
+Ali Cem,1
+Bora,3
